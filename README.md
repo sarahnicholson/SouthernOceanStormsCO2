@@ -1,7 +1,7 @@
 # Storms drive outgassing of CO2 in the subpolar Southern Ocean
 
 Authors: 
-_ S-A Nicholson, D. B Whitt, I. Fer, M.D. du Plessis, A.D Lebéhot, S. Swart, A.J Sutton, P.M.S Monteiro _
+S-A Nicholson, D. B Whitt, I. Fer, M.D. du Plessis, A.D Lebéhot, S. Swart, A.J Sutton, P.M.S Monteiro
 
 
 Accompanying code to the paper "Storms drive outgassing of CO2 in the subpolar Southern Ocean" Nature Communications
