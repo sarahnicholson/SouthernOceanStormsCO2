@@ -15,19 +15,19 @@ The user will require the following software:
   - numpy
   - xarray
   - pandas
-		- netCDF4
-		- matplotlib
-		- scipy
-		- seaborn
-		- cmocean
-		- cartopy
-		- seaborn
-		- glidertools
-		- xesmf
-		- PyCO2SYS
-		- seawater
-		- seaflux
-		- gsw
+  - netCDF4
+  - matplotlib
+  - scipy
+  - seaborn
+  - cmocean
+  - cartopy
+  - seaborn
+  - glidertools
+  - xesmf
+  - PyCO2SYS
+  - seawater
+  - seaflux
+  - gsw
 
  <b> Data Sources: </b>
  
