@@ -38,4 +38,4 @@ In this study, we first use a two-month dataset from the Southern Ocean Seasonal
 
 Using these data we explain how storms influence, through ocean mixed layer physics (advection and mixing), the direction and magnitude of the air-sea CO2 gradient (∆pCO2) and flux (FCO2) over the duration of the experiment. We construct a conceptual ocean mixed layer model that captures the observed synoptic variability of ∆pCO2 in the observations, we estimate the synoptic variability around the entire subpolar Southern Ocean. The relating data for this second step can be found under /Data/Generalisation
 
-Other auxillary source data (not produced in Nicholson et al.) which is required to be downloaded is listed within each notebook. 
+Other auxillary source data (not produced in Nicholson et al.) which is required to be downloaded is listed within each notebook and in the main manuscrip text.
